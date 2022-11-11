@@ -1,0 +1,21 @@
+.createAreaContainer {
+  width: 650px;
+  margin: 0 auto;
+  background-color: aliceblue;
+  border-radius: 20px;
+}
+input {
+  padding: 10px;
+  margin: 30px;
+  width: 500px;
+  border: 2px blue solid;
+  border-radius: 10px;
+}
+button {
+  padding: 10px;
+  border-radius: 5px;
+  width: 40px;
+  border: 2px blue solid;
+  cursor: pointer;
+  color: chocolate;
+}

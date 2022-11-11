@@ -1,0 +1,11 @@
+.toDoListContainer {
+  background-color: aliceblue;
+  width: 650px;
+  height: 70px;
+  margin: 60px auto 10px auto;
+  border-radius: 10px;
+}
+.toDoListContainer h1 {
+  color: blueviolet;
+  padding: 15px 0 10px 40px;
+}

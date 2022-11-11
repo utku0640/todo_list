@@ -1,0 +1,15 @@
+.todoItemContainer {
+  max-width: 650px;
+  height: auto;
+  padding: 10px 10px 10px 30px;
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  margin: 3px 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.todoItemContainer p {
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+}
